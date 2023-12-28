@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702715433 source:d:\c\17-sumprime1\main.c
+	<stdio.h>
+	<stdlib.h>
+
